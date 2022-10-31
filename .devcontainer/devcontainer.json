@@ -1,0 +1,5 @@
+{
+    "name": "Apache Oozie Cli Docker Dev",
+    "context": "..",
+    "dockerFile": "../Dockerfile",
+}  
