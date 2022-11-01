@@ -2,4 +2,7 @@
     "name": "Apache Oozie Cli Docker Dev",
     "context": "..",
     "dockerFile": "../Dockerfile",
-}  
+    "runArgs": [
+        "--network=host",
+    ],
+}
